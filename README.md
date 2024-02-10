@@ -60,8 +60,3 @@ The tree diagram below represents a general file structure
 
 > Apart from the primary fields listed down in [Global Field Standards](https://docs.google.com/spreadsheets/d/1Zyn0qLI1JdZD-3EQdvpi7twzUUy3vExg80SL3CK6sWI/edit#gid=0) spreadsheet, there are several other secondary fields that are to be scraped; given by the data provider for every document that holds significant business importance.
 
-## Submission and Evaluation
-- For assignment submission guidelines and evaluation criteria refer to the [WIKI](https://github.com/Taiyo-ai/ts-mesh-pipeline/wiki) documentation
-
----
-Copyright © 2021 Taiyō.ai Inc.
